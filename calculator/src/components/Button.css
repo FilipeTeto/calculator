@@ -5,7 +5,7 @@ button {
     color: rgb(0, 0, 0);
     font-weight: bold;
     cursor: pointer;
-    border-radius: 10px;
+    border-radius: 50%;
     outline: none;
 }
 
@@ -16,6 +16,7 @@ button:hover {
 .equals {
     grid-column: 3 / 5;
     background-color: rgb(215, 241, 167);
+    border-radius: 5rem;
 }
 
 .equals:hover {
